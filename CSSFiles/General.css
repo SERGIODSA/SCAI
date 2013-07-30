@@ -1,0 +1,101 @@
+body{
+	background-color: #dcdcdc; 
+	height: 98%; 
+	font-family: calibri;
+	cursor: url(../Imagenes/Cursor2.png),pointer;
+	overflow: auto;
+	margin: 0px;  
+	padding: 0; 
+}
+textarea{ 
+	resize: none;
+	font-family: calibri;
+}
+input{
+	font-family: calibri;
+}
+select{
+	font-family: calibri;
+}
+.boton {
+	background: #006699;
+	border: none;
+	color: #ffffff;
+	font: 16px Calibri;
+	padding: 6px 7px;
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid #333;
+	letter-spacing: 1px;
+/**** Sombra de texto ****/
+	text-shadow: 0px -1px 0px #333333;
+/**** Bordes redondeados ****/
+/* W3C */
+	border-radius: 5px;
+/* Firefox */
+	-moz-border-radius: 5px; 
+/**** Degradados ****/
+/*  Chrome 1-9 and Safari 4-5.0  */
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #8b8b8b), color-stop(0.5, #707070), color-stop(0.5, #5e5e5e), color-stop(1, #777777));
+/*  Chrome 10+ Safari 5.1+ Mobile Safari  */
+	background-image: -webkit-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  Firefox 3.6+  */
+	background-image: -moz-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  IE 10+  */
+	background-image: -ms-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  Opera 11.10+  */
+	background-image: -o-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  W3C  */
+	background-image: linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777); 
+}
+.titulo{	
+	margin-left:3%;
+	margin-right:3%;	
+	margin-top:1%;		
+	background-image:url(../Imagenes/Barra2.png);
+	border:#000 1px groove;	
+	color:#FFF;	
+	font-size:18px;		
+	height: 26px;
+	text-transform:uppercase;
+	font-weight:bold; 
+}
+.titulobold{
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: underline;
+	background-color: #CCCCCC;
+	color: white;
+}
+.tituloformulario{
+	font-weight: bold;
+	border-style: outset;
+	border-color: #F00;
+	text-align: center;
+}
+.cuerpoformulario{
+	border-style: dotted;
+	border-color: #F00;
+	text-align: center;
+}
+.izqeditform{
+	text-align: right;
+	font-weight: bold;
+}
+.dereditform{
+	border-style: ridge;
+	border-color: #000;
+	font-size: 14px;
+	text-align: center;
+}
+.subtitulo{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.cajas{
+	border: 2px solid #000;
+	font-family: calibri;
+	border-style: ridge;
+	font-size:14px;	
+}

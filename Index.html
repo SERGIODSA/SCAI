@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<link rel="stylesheet" href="CSSFiles/Login.css" type="text/css">
+	<title>Inicio de sesion | Distribuidora Universal Kia</title>
+</HEAD>
+
+<BODY>
+	<div align="center"><br><br><br><br><img src="Imagenes/FondoLogin.png"/></div><br>
+	<div class="tabla">
+	<form action="PHPFiles/Login/VerificarDatos.php" method="POST">
+		<table align="center" border="0" width="90%" height="10%">
+			<tr>
+				<td colspan="3"><div align="center"><img src="Imagenes/KiaLogo2.png"/></div></td>
+			</tr>
+			<tr>
+				<td colspan="3"><div class="titulo">&nbsp;&nbsp;<img src="Imagenes/Login1.png"/>INGRESAR AL SISTEMA</div></td>
+			</tr>
+			<tr>
+				<td colspan="3"><br></td>
+			</td>
+			<tr>
+				<td cellspacing="2"><div class="etiqueta">USUARIO </div></td>
+				<td cellspacing="2"><div class="etiqueta">CONTRASE&Ntilde;A</div></td>
+				<td rowspan="2" align="center"><input type="image" src="Imagenes/Confirmar.png" /></td>
+			</tr>
+			<tr>
+				<td cellspacing="2"><input type="text" name="usuario" size="14" maxlength="12" class="borde"></td>
+				<td cellspacing="2"><input type="password" name="clave" size="14" maxlength="12" class="borde"></td>
+			</tr>
+			<tr>
+				<td id="error1"></td>
+				<td id="error2"></td>
+				<td></td>
+			</tr>
+		</table>
+	</form>
+	</div>
+</BODY>
+</HTML>

@@ -1,0 +1,84 @@
+.resultados{
+	margin-top: 2%;	
+	margin-left:3%;
+	margin-right: 3%;
+	width: 94%;
+	overflow: hidden;
+}
+.busqueda{
+	float: left;
+	width: 22%;
+	height: 77%;
+	overflow: auto;
+	border:#fff 3px groove;
+}
+.croquis{
+	float: right;
+	width: 76%;
+	height: 77%;
+	overflow: auto;
+}
+.dpto{
+	color:#000;	
+	font-size:18px;		
+	height: 26px;
+	width: 94%;
+	margin-left: 3%;
+	text-align: center;
+	text-transform:uppercase;
+	font-weight:bold; 
+	text-decoration: underline;
+}
+.tablaloca{
+	background-color: white;
+	border: 2px solid #F00;
+}
+.download{
+	background-color: white;
+	border: 2px solid #F00;
+	width: 50%;
+	margin-left: 25%;
+}
+.bordetit{
+	border:#FFF 1px groove;
+	width: 90%;
+	margin-left: 3%;
+	background-color: #DBDB70;
+}
+.tablapre{
+	background-color: white;
+	border: 2px solid #F00;
+}
+.bordetit2{
+	border:#FFF 1px groove;
+	width: 25%;
+	margin-left: 3%;
+	background-color: #DBDB70;
+}
+.busqueda2{
+	margin-top: 2%;	
+	margin-left:3%;
+	margin-right:3%;	
+	width: 94%;
+}
+.divuno{
+	border:#fff 2px inset;
+	overflow: auto;
+	height: 100px;
+	width: 96%;
+	background-color: #C6B9B9;
+}
+.cajas2{
+	border: 2px solid #000;
+	font-size: 14px;
+}
+.cajas2[disabled] {
+	border: 2px solid #000;
+	font-size: 14px;
+	background-color: #D4D0C8;
+}
+.letra2{
+	text-align: right;
+	font-size: 22px;
+	font-weight:bold; 
+}

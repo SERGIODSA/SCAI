@@ -1,0 +1,105 @@
+body{
+	background-image:url(../Imagenes/Fondo4.png); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #e6e6e6; 
+	width: 100%; 
+	height:100%; 
+	margin:0px;  
+	padding:0; 
+	overflow:hidden;
+    cursor:url('../Imagenes/Cursor2.png'),pointer;	
+}
+.izquierda{
+	float:right;
+}
+.logokia{
+	left:2px; 
+	top:2px; 
+	position:absolute;
+}
+.usuario{
+	float: right;
+	position:relative; 
+	right:10%;
+	top:2px;
+	font-family:Calibri;
+	font-size: 13px;
+	color: #1C1C1C;
+}
+.desconexion{
+	float:right;
+	text-align:center;
+	right:0px;
+	position:absolute;
+	height:40px;
+	width:76px;
+	padding-right:2px;
+}
+.cambiosesion{
+	position:relative;
+	float: left;
+	height: 40px;
+	width: 38px;
+	padding-top:2px;
+}
+.salir{
+	position: relative;
+	float:right;
+	height: 40px;
+	width: 38px;
+}
+#menu{
+	background-image:url(../Imagenes/BarraMenu.png); 
+	background-repeat:repeat-x; 
+	height:35px;
+}
+/* mueve todo a la izquierda */
+#menu ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	margin-left: 10%;
+	text-align: center; 
+	font-size:14px; 
+	font-family:Calibri;
+	display: block; 
+	text-decoration:none; 
+	font-weight:bold; 
+	text-transform:uppercase; 
+	color:#E6E6E6;
+	line-height: 30px;
+}
+/* convierte los li en horizontal */
+#menu ul li {
+	float: left;
+	position: relative;
+	width: 11em;
+	display: block;
+	border: solid 2px #E6E6E6; 
+}
+/* hover sirve cuando pasas el cursor encima del objeto */
+#menu ul li:hover{
+	background-image:url(../Imagenes/barra1.png);	
+	color:#DF0101;
+}
+#menu ul li ul {
+	display: none;
+	position: absolute; 
+	top: 1em;
+	left: 0;
+	margin-left:0px;
+	background-image:url(../Imagenes/barra2.png);	
+	color:#E6E6E6;
+}
+#menu ul li>ul{
+	top: auto;
+	left: auto;
+}
+#menu ul li ul li:hover{
+	border:#000 solid 2px;
+}
+/* hace que aparezca el submenu cuando paso el cursos sobre el menu */
+#menu ul li:hover ul{ 
+	display: block; 
+}

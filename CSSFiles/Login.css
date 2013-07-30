@@ -1,0 +1,90 @@
+body{
+	background-color: #e6e6e6; 
+	background-repeat: repeat-x; 
+	margin : auto; 
+	height: 100%;
+	padding: 0; 
+	overflow: auto;
+    cursor: url(../Imagenes/Cursor2.png),pointer;	
+	text-align: center;
+	font-family: Calibri;	
+}
+.tabla{
+	background-image:url(../Imagenes/Fondo2.jpg);
+	background-repeat:repeat-x;
+	max-width: 42%;
+	border-style: outset;
+	text-align: left;
+	margin: auto;
+}
+.barra{
+	background-image:url(../Imagenes/Barra3.png);
+	background-repeat:repeat-x;
+}
+.etiqueta{
+	text-decoration:none; 
+	text-transform:uppercase;
+	font-size:16px; 	
+}
+.borde{
+	border: 2px solid #F00;
+	font-size:16px;	
+	text-align: center;	
+}
+.titulo{		
+	min-width:0%;	
+	font-weight:bold;	
+	color:#000;	
+	background-image:url(../Imagenes/Login2.png);
+	border:#F00 1px groove;	
+	font-size:18px;	
+	text-align:left;  
+}
+.boton {
+	background: #006699;
+	border: none;
+	color: #ffffff;
+	font: 16px Calibri;
+	padding: 6px 7px;
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid #333;
+	letter-spacing: 1px;
+/**** Sombra de texto ****/
+	text-shadow: 0px -1px 0px #333333;
+/**** Bordes redondeados ****/
+/* W3C */
+	border-radius: 5px;
+/* Firefox */
+	-moz-border-radius: 5px; 
+/**** Degradados ****/
+/*  Chrome 1-9 and Safari 4-5.0  */
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #8b8b8b), color-stop(0.5, #707070), color-stop(0.5, #5e5e5e), color-stop(1, #777777));
+/*  Chrome 10+ Safari 5.1+ Mobile Safari  */
+	background-image: -webkit-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  Firefox 3.6+  */
+	background-image: -moz-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  IE 10+  */
+	background-image: -ms-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  Opera 11.10+  */
+	background-image: -o-linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777);
+/*  W3C  */
+	background-image: linear-gradient(top, #8b8b8b, #707070 50%, #5e5e5e 50%, #777777); 
+}
+.depas{
+	width:30%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 35%;
+	background-image:url(../Imagenes/Fondo2.jpg);
+	background-repeat:repeat-x;
+	border-style: outset;
+}
+.select{
+	width: 80%;
+	border-style: inset;
+	background-color:  #e6e6e6; 
+}
+.letra{
+	color: #2E2E2E;
+}

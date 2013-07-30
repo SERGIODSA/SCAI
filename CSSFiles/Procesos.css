@@ -1,0 +1,186 @@
+.resultados{
+	margin-top: 2%;	
+}
+.resultados2{
+	margin-top: 2%;
+	margin-left:3%;
+	margin-right:3%;		
+	width: 94%;
+}
+.fechas{
+	border: 2px solid #000;
+	border-style: ridge;
+	font-size:14px;	
+	text-align: center;
+}
+.dereditform2{
+	border-style: groove;
+	border-color: #000;
+	font-size: 14px;
+}
+.tablaespacio{
+	background-color: white;
+	width:44%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 28%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.tamanotitulo{
+	width:44%;
+	margin-left: 28%;
+}
+.subtitulo{
+	font-weight: bold;
+	color: #000;
+}
+.numero{
+	color: #000;
+}
+.tablapre{
+	background-color: white;
+	border: 2px solid #F00;
+}
+.bordebusqueda{
+	border:#fff 2px inset;
+	overflow: auto;
+	height: 100px;
+	width: 100%;
+	background-color: #C6B9B9;
+}
+.bordetit{
+	border:#FFF 1px groove;
+	width: 30%;
+	margin-left: 3%;
+	background-color: #DBDB70;
+}
+.letra2{
+	text-align: right;
+	font-size: 22px;
+	font-weight:bold; 
+}
+.busqueda{
+	margin-top: 2%;	
+	margin-left:3%;
+	margin-right:3%;	
+	width: 94%;
+}
+.agregar{
+	margin-top:3%;	
+	margin-left:28%;
+}
+.letra3{
+	text-align: right;
+	font-size: 18px;
+}
+.cajas2{
+	border: 2px solid #000;
+	font-size: 14px;
+}
+.cajas2[disabled] {
+	border: 2px solid #000;
+	font-size: 14px;
+	background-color: #D4D0C8;
+}
+.prescaja{                      
+	background-color: white;
+	width:40%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 30%;
+	margin-top: 4%;
+	border: 2px solid #F00;
+}
+.nota{
+	font-weight: bold;
+	font-size: 12px;
+}
+.letraubicaja{
+	font-weight: bold;
+}
+.tablades{
+	background-color: white;
+	border: 2px solid #F00;
+}
+.estantefila{
+	width: 100%;
+	text-align: center;
+}
+.datoscaja{
+	width: 100%;
+}
+.cajas3{
+	border: 2px solid #000;
+	font-size: 18px;
+}
+.letracapa{
+	font-weight: bold;
+}
+.formulario{
+	background-color: white;
+	width:52%;
+	height: auto;
+	margin-left: 24%;
+	margin-top: 4%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.formulario2{
+	background-color: white;
+	width:54%;
+	height: auto;
+	margin-left: 23%;
+	margin-top: 4%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.formulario3{
+	background-color: white;
+	width:56%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 22%;
+	margin-top: 4%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.formcaja{
+	background-color: white;
+	width:34%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 33%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.formcaja2{
+	background-color: white;
+	width:40%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 30%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.formcaja3{
+	background-color: white;
+	width:42%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 31%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+}
+.formcaja4{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 60%;
+	margin-left: 32%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+	overflow: auto;
+}

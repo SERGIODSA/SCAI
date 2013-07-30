@@ -1,0 +1,171 @@
+.resultados{
+	margin-top: 2%;	
+}
+.atras{
+	margin-left: 3%; 
+}
+.tamanotitulo{
+	width:60%;
+	margin-left: 23%;
+}
+.tituloubi{
+	text-align: center;
+}
+
+.tablapar{
+	background-color: white;
+	width:70%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 15%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.tablapar2{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 32%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.nuevo2{
+	margin-left: 15%;
+}
+.tabladp1{
+	background-color: white;
+	width:70%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 15%;
+	border: 2px solid #F00;
+}
+.tabladp2{
+	background-color: white;
+	width:50%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 25%;
+	border: 2px solid #F00;
+}
+.tabladp3{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 32%;
+	border: 2px solid #F00;
+}
+.nuevo{
+	margin-left: 15%;
+}
+.atras{
+	margin-left: 25%;
+}
+.nuevo4{
+	margin-left: 28%;
+}
+.tablaval{
+	background-color: white;
+	width:40%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 30%;
+	border: 2px solid #F00;
+}
+.tablaval2{
+	background-color: white;
+	width:44%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 28%;
+	border: 2px solid #F00;
+}
+.locascroll{
+	border:#fff 2px inset;
+	overflow: auto;
+	height: 76%;
+	width: 93.7%;
+	margin-left: 3%;
+	background-color: #C6B9B9;
+}
+.dpto{
+	color:#000;	
+	font-size:18px;		
+	height: 26px;
+	text-transform:uppercase;
+	font-weight:bold; 
+	text-decoration: underline;
+}
+.tablalo{
+	background-color: white;
+	width:54%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 23%;
+	border: 2px solid #F00;
+}
+.tablalo2{
+	background-color: white;
+	width:32%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 34%;
+	border: 2px solid #F00;
+}
+.tablaub{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 32%;
+	border: 2px solid #F00;
+}
+.tablaub2{
+	background-color: white;
+	width:32%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 34%;
+	border: 2px solid #F00;
+}
+.atrasub{
+	margin-left: 32%;
+}
+.select{
+	border-style: ridge;
+	border-color: #000;
+	font-size: 14px;
+	text-align: center;
+	width: 123px;
+}
+.nuevo3{
+	margin-left: 24.5%;
+}
+.nuevo5{
+	margin-left: 32%;
+}
+.tablati{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 32%;
+	border: 2px solid #F00;
+}
+.tablati2{
+	background-color: white;
+	width:32%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 34%;
+	border: 2px solid #F00;
+}
+.letra{
+	font-weight:bold;
+	font-size: 18px;
+}
+.tamano{
+	font-size: 18px;
+}

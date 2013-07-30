@@ -1,0 +1,198 @@
+.resultados{
+	margin-top: 2%;	
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.dpto{
+	color:#000;	
+	font-size:18px;		
+	height: 26px;
+	text-transform:uppercase;
+	font-weight:bold; 
+	text-decoration: underline;
+}
+.seleccion{
+	border-style: ridge;
+	border-color: #000;
+	font-size: 14px;
+	width: 125px;
+}
+.titulo2{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.tablamenus{
+	background-color: white;
+	width:40%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 30%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.nuevo3{
+	margin-left: 30%;
+}
+.tablamenus2{
+	background-color: white;
+	width:30%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 35%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.titdepa{
+	margin-left: 30%;
+	width: 40%;
+	font-size: 18px;
+	text-align: center;
+}
+.negrita{
+	font-weight: bold;
+}
+.cambioclave{
+	background-color: white;
+	width:36%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 32%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.cajadepes{
+	height: 30%;
+	overflow: auto;
+}
+.nuevouser{
+	margin-left: 9%;
+}
+.tablausuarios{
+	background-color: white;
+	width:82%;
+	margin-left: 9%;
+	min-height: 0%;
+	max-height: 70%;
+	border: 2px solid #F00;
+}
+.registro{
+	background-color: white;
+	width:38%;
+	min-height: 0%;
+	margin-left: 31%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.letra{
+	text-align: right;
+}
+.tablaacceso{
+	background-color: white;
+	width:46%;
+	min-height: 0%;
+	max-height: 70%;
+	margin-left: 27%;
+	border: 2px solid #F00;
+}
+.nuevo{
+	margin-left: 27%;
+}
+.roles{
+	background-color: white;
+	width:40%;
+	min-height: 0%;
+	margin-left: 30%;
+	margin-top: 2%;
+	border: 2px solid #F00;
+	overflow: auto;
+}
+.cajas2{
+	border: 2px solid #000;
+	font-size: 14px;
+}
+.cajas2[disabled] {
+	border: 2px solid #000;
+	font-size: 14px;
+	background-color: #D4D0C8;
+}
+.tablaadmin{
+	background-color: white;
+	width:74%;
+	margin-left: 13%;
+	min-height: 0%;
+	max-height: 70%;
+	border: 2px solid #F00;
+}
+.letra2{
+	font-size: 13px;
+}
+.nota{
+	font-weight: bold;
+	font-size: 12px;
+}
+.accesousuario{
+	float: right;
+	width:43%;
+	min-height: 0%;
+	max-height: 70%;
+}
+.accesototal{
+	float: left;
+	width:43%;
+	min-height: 0%;
+	max-height: 70%;
+}
+.botones{
+	width: 13%;
+	float: right;
+	min-height: 0%;
+	max-height: 70%;
+	text-align: center;
+}
+.tablaacceso2{
+	background-color: white;
+	width:100%;
+	min-height: 0%;
+	max-height: 70%;
+	border: 2px solid #F00;
+}
+.tituloformulario2{
+	font-weight: bold;
+	border-style: outset;
+	border-color: #F00;
+	text-align: center;
+	font-size: 12px;
+}
+.cuerpoformulario2{
+	border-style: dotted;
+	border-color: #F00;
+	text-align: center;
+	font-size:12px;
+}
+.leyenda{
+	border:#FFF 1px groove;
+	width: 100%;
+	text-align: center;
+}
+.bordetit{
+	border:#FFF 1px groove;
+	width: 40%;
+	background-color: #DBDB70;
+}
+.bordetit2{
+	border:#FFF 1px groove;
+	width: 20%;
+	background-color: #DBDB70;
+	margin-left: 5%;
+}
+.bordetit3{
+	border:#FFF 1px groove;
+	width: 20%;
+	background-color: #DBDB70;
+	margin-left: 15%;
+}
+.subtitulo2{
+	text-decoration: underline;
+	color: #000;
+}
